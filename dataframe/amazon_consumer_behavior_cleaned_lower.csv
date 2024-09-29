@@ -1,0 +1,603 @@
+age,gender,cleaned_purchase_category,Purchase_Frequency,Browsing_Frequency,Cart_Completion_Frequency
+16,Male,clothing and fashion,Once a month,Rarely,Sometimes
+17,Prefer not to say,clothing and fashion,Few times a month,Rarely,Often
+18,Female,beauty and personal care,Once a month,Rarely,Rarely
+20,Female,home and kitchen,Once a month,Rarely,Sometimes
+21,Male,others,Less than once a month,Rarely,Rarely
+21,Male,beauty and personal care,Multiple times a week,Rarely,Sometimes
+21,Female,clothing and fashion,Less than once a month,Rarely,Rarely
+21,Female,clothing and fashion,Less than once a month,Rarely,Never
+21,Female,beauty and personal care,Few times a month,Rarely,Often
+22,Female,clothing and fashion,Less than once a month,Rarely,Often
+23,Female,beauty and personal care,Less than once a month,Rarely,Rarely
+23,Female,beauty and personal care,Less than once a month,Rarely,Rarely
+23,Female,beauty and personal care,Less than once a month,Rarely,Rarely
+23,Male,others,Less than once a month,Rarely,Often
+23,Male,clothing and fashion,Once a month,Rarely,Sometimes
+23,Female,clothing and fashion,Few times a month,Rarely,Sometimes
+23,Female,beauty and personal care,Less than once a month,Rarely,Rarely
+23,Female,beauty and personal care,Less than once a month,Rarely,Often
+23,Female,beauty and personal care,Less than once a month,Rarely,Sometimes
+23,Male,beauty and personal care,Less than once a month,Rarely,Often
+23,Female,others,Less than once a month,Rarely,Sometimes
+23,Female,others,Less than once a month,Rarely,Sometimes
+23,Female,clothing and fashion,Few times a month,Rarely,Rarely
+23,Female,others,Less than once a month,Rarely,Never
+24,Female,clothing and fashion,Less than once a month,Rarely,Rarely
+24,Female,others,Less than once a month,Rarely,Sometimes
+24,Prefer not to say,clothing and fashion,Less than once a month,Rarely,Rarely
+24,Female,beauty and personal care,Less than once a month,Rarely,Sometimes
+24,Female,home and kitchen,Less than once a month,Rarely,Sometimes
+24,Female,beauty and personal care,Few times a month,Rarely,Never
+25,Female,clothing and fashion,Less than once a month,Rarely,Sometimes
+25,Male,others,Few times a month,Rarely,Sometimes
+25,Female,others,Less than once a month,Rarely,Rarely
+25,Male,groceries and gourmet food,Less than once a month,Rarely,Sometimes
+25,Prefer not to say,beauty and personal care,Few times a month,Rarely,Rarely
+26,Female,clothing and fashion,Few times a month,Rarely,Rarely
+26,Male,home and kitchen,Less than once a month,Rarely,Sometimes
+26,Prefer not to say,home and kitchen,Less than once a month,Rarely,Never
+26,Female,beauty and personal care,Less than once a month,Rarely,Sometimes
+27,Male,others,Less than once a month,Rarely,Rarely
+27,Male,others,Less than once a month,Rarely,Never
+27,Male,clothing and fashion,Less than once a month,Rarely,Sometimes
+28,Male,others,Less than once a month,Rarely,Sometimes
+29,Male,others,Less than once a month,Rarely,Sometimes
+31,Female,home and kitchen,Once a month,Rarely,Never
+32,Male,clothing and fashion,Once a month,Rarely,Rarely
+32,Male,others,Less than once a month,Rarely,Always
+32,Male,clothing and fashion,Less than once a month,Rarely,Sometimes
+32,Male,others,Less than once a month,Rarely,Always
+34,Others,beauty and personal care,Once a week,Rarely,Often
+34,Prefer not to say,beauty and personal care,Few times a month,Rarely,Sometimes
+34,Male,others,Less than once a month,Rarely,Sometimes
+35,Male,groceries and gourmet food,Less than once a month,Rarely,Rarely
+36,Female,others,Less than once a month,Rarely,Never
+36,Others,others,Less than once a month,Rarely,Never
+36,Female,home and kitchen,Less than once a month,Rarely,Sometimes
+36,Male,beauty and personal care,Once a month,Rarely,Rarely
+37,Male,others,Less than once a month,Rarely,Often
+37,Female,beauty and personal care,Few times a month,Rarely,Rarely
+40,Female,home and kitchen,Less than once a month,Rarely,Sometimes
+40,Female,clothing and fashion,Once a month,Rarely,Sometimes
+43,Prefer not to say,groceries and gourmet food,Less than once a month,Rarely,Sometimes
+43,Male,groceries and gourmet food,Less than once a month,Rarely,Sometimes
+45,Female,clothing and fashion,Once a week,Rarely,Always
+45,Female,others,Once a week,Rarely,Sometimes
+45,Female,clothing and fashion,Few times a month,Rarely,Rarely
+45,Prefer not to say,groceries and gourmet food,Once a month,Rarely,Never
+46,Female,others,Once a month,Rarely,Always
+46,Male,beauty and personal care,Once a week,Rarely,Often
+46,Male,home and kitchen,Less than once a month,Rarely,Never
+47,Prefer not to say,others,Less than once a month,Rarely,Never
+47,Female,clothing and fashion,Less than once a month,Rarely,Rarely
+48,Female,beauty and personal care,Less than once a month,Rarely,Always
+48,Female,clothing and fashion,Multiple times a week,Rarely,Rarely
+54,Male,others,Less than once a month,Rarely,Often
+62,Female,beauty and personal care,Less than once a month,Rarely,Sometimes
+63,Male,groceries and gourmet food,Less than once a month,Rarely,Sometimes
+3,Prefer not to say,home and kitchen,Once a month,Few times a week,Sometimes
+12,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+15,Male,clothing and fashion,Once a month,Few times a week,Sometimes
+16,Prefer not to say,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+17,Male,groceries and gourmet food,Few times a month,Few times a week,Never
+17,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+18,Male,clothing and fashion,Once a week,Few times a week,Often
+18,Female,groceries and gourmet food,Few times a month,Few times a week,Often
+19,Female,clothing and fashion,Few times a month,Few times a week,Often
+19,Female,clothing and fashion,Few times a month,Few times a week,Always
+21,Male,groceries and gourmet food,Once a month,Few times a week,Often
+21,Female,beauty and personal care,Less than once a month,Few times a week,Often
+21,Female,clothing and fashion,Once a month,Few times a week,Always
+21,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+21,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+21,Female,clothing and fashion,Few times a month,Few times a week,Often
+21,Male,groceries and gourmet food,Once a week,Few times a week,Sometimes
+21,Female,beauty and personal care,Once a week,Few times a week,Often
+21,Male,others,Less than once a month,Few times a week,Never
+21,Prefer not to say,beauty and personal care,Once a week,Few times a week,Rarely
+21,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+21,Male,clothing and fashion,Once a week,Few times a week,Sometimes
+21,Female,clothing and fashion,Once a week,Few times a week,Sometimes
+22,Female,beauty and personal care,Less than once a month,Few times a week,Sometimes
+22,Prefer not to say,clothing and fashion,Few times a month,Few times a week,Sometimes
+22,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+22,Female,clothing and fashion,Less than once a month,Few times a week,Sometimes
+22,Prefer not to say,beauty and personal care,Once a month,Few times a week,Often
+22,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Female,clothing and fashion,Once a month,Few times a week,Sometimes
+23,Female,groceries and gourmet food,Once a week,Few times a week,Always
+23,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+23,Female,groceries and gourmet food,Once a week,Few times a week,Rarely
+23,Male,groceries and gourmet food,Multiple times a week,Few times a week,Often
+23,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a week,Often
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+23,Female,groceries and gourmet food,Less than once a month,Few times a week,Often
+23,Female,clothing and fashion,Once a week,Few times a week,Often
+23,Female,clothing and fashion,Few times a month,Few times a week,Always
+23,Female,beauty and personal care,Once a week,Few times a week,Rarely
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a week,Rarely
+23,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+23,Prefer not to say,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+23,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+23,Prefer not to say,clothing and fashion,Few times a month,Few times a week,Sometimes
+23,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a week,Often
+23,Female,others,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+23,Female,clothing and fashion,Once a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Male,others,Few times a month,Few times a week,Rarely
+23,Female,clothing and fashion,Once a week,Few times a week,Rarely
+23,Others,groceries and gourmet food,Once a month,Few times a week,Sometimes
+23,Female,beauty and personal care,Multiple times a week,Few times a week,Often
+23,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+23,Male,others,Less than once a month,Few times a week,Rarely
+23,Prefer not to say,beauty and personal care,Few times a month,Few times a week,Often
+23,Female,beauty and personal care,Few times a month,Few times a week,Rarely
+23,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+23,Male,groceries and gourmet food,Once a week,Few times a week,Always
+23,Male,clothing and fashion,Once a week,Few times a week,Sometimes
+24,Prefer not to say,beauty and personal care,Few times a month,Few times a week,Often
+24,Female,beauty and personal care,Once a week,Few times a week,Often
+24,Male,others,Once a month,Few times a week,Sometimes
+24,Male,clothing and fashion,Once a week,Few times a week,Often
+24,Female,others,Few times a month,Few times a week,Often
+24,Female,beauty and personal care,Once a month,Few times a week,Rarely
+24,Male,others,Less than once a month,Few times a week,Never
+24,Female,beauty and personal care,Less than once a month,Few times a week,Always
+24,Female,home and kitchen,Few times a month,Few times a week,Often
+24,Male,beauty and personal care,Few times a month,Few times a week,Sometimes
+24,Male,groceries and gourmet food,Once a month,Few times a week,Often
+24,Male,beauty and personal care,Few times a month,Few times a week,Sometimes
+24,Female,beauty and personal care,Less than once a month,Few times a week,Sometimes
+24,Female,others,Once a month,Few times a week,Sometimes
+24,Female,groceries and gourmet food,Multiple times a week,Few times a week,Rarely
+24,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+25,Prefer not to say,clothing and fashion,Few times a month,Few times a week,Often
+25,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+25,Male,others,Few times a month,Few times a week,Sometimes
+25,Female,beauty and personal care,Multiple times a week,Few times a week,Often
+25,Male,others,Less than once a month,Few times a week,Often
+25,Female,beauty and personal care,Less than once a month,Few times a week,Sometimes
+25,Others,groceries and gourmet food,Few times a month,Few times a week,Never
+25,Female,groceries and gourmet food,Few times a month,Few times a week,Often
+25,Prefer not to say,beauty and personal care,Once a month,Few times a week,Often
+25,Female,beauty and personal care,Less than once a month,Few times a week,Sometimes
+25,Prefer not to say,beauty and personal care,Few times a month,Few times a week,Sometimes
+25,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+25,Female,groceries and gourmet food,Once a week,Few times a week,Often
+25,Female,clothing and fashion,Few times a month,Few times a week,Often
+25,Male,beauty and personal care,Multiple times a week,Few times a week,Often
+25,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+25,Male,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+25,Female,beauty and personal care,Less than once a month,Few times a week,Sometimes
+26,Others,beauty and personal care,Few times a month,Few times a week,Sometimes
+26,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+26,Female,beauty and personal care,Few times a month,Few times a week,Always
+26,Female,groceries and gourmet food,Multiple times a week,Few times a week,Often
+26,Female,beauty and personal care,Once a month,Few times a week,Rarely
+26,Male,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+26,Male,clothing and fashion,Less than once a month,Few times a week,Rarely
+26,Prefer not to say,groceries and gourmet food,Once a month,Few times a week,Often
+26,Female,clothing and fashion,Once a month,Few times a week,Always
+26,Female,clothing and fashion,Multiple times a week,Few times a week,Sometimes
+26,Female,groceries and gourmet food,Few times a month,Few times a week,Often
+26,Male,clothing and fashion,Few times a month,Few times a week,Sometimes
+26,Male,beauty and personal care,Once a month,Few times a week,Sometimes
+26,Female,groceries and gourmet food,Once a month,Few times a week,Often
+26,Male,groceries and gourmet food,Less than once a month,Few times a week,Often
+26,Male,others,Few times a month,Few times a week,Often
+27,Female,beauty and personal care,Once a month,Few times a week,Often
+27,Male,beauty and personal care,Once a week,Few times a week,Often
+28,Male,clothing and fashion,Once a month,Few times a week,Sometimes
+28,Female,beauty and personal care,Once a week,Few times a week,Often
+29,Prefer not to say,beauty and personal care,Once a week,Few times a week,Sometimes
+29,Male,clothing and fashion,Once a month,Few times a week,Often
+29,Male,groceries and gourmet food,Less than once a month,Few times a week,Sometimes
+30,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+30,Male,groceries and gourmet food,Once a week,Few times a week,Often
+30,Prefer not to say,beauty and personal care,Few times a month,Few times a week,Often
+30,Male,clothing and fashion,Less than once a month,Few times a week,Sometimes
+30,Male,clothing and fashion,Multiple times a week,Few times a week,Sometimes
+31,Female,groceries and gourmet food,Once a month,Few times a week,Often
+31,Others,home and kitchen,Once a month,Few times a week,Often
+31,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+31,Female,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+32,Male,beauty and personal care,Few times a month,Few times a week,Sometimes
+32,Male,groceries and gourmet food,Few times a month,Few times a week,Rarely
+32,Prefer not to say,clothing and fashion,Once a month,Few times a week,Never
+32,Prefer not to say,beauty and personal care,Multiple times a week,Few times a week,Often
+32,Female,clothing and fashion,Once a month,Few times a week,Sometimes
+32,Female,groceries and gourmet food,Once a week,Few times a week,Often
+32,Female,beauty and personal care,Few times a month,Few times a week,Always
+32,Female,beauty and personal care,Few times a month,Few times a week,Rarely
+32,Male,clothing and fashion,Less than once a month,Few times a week,Rarely
+32,Female,beauty and personal care,Once a week,Few times a week,Often
+33,Female,beauty and personal care,Once a week,Few times a week,Never
+33,Female,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+34,Female,home and kitchen,Once a month,Few times a week,Often
+34,Female,beauty and personal care,Once a week,Few times a week,Always
+34,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+34,Female,beauty and personal care,Once a week,Few times a week,Often
+34,Female,clothing and fashion,Few times a month,Few times a week,Often
+34,Female,clothing and fashion,Once a month,Few times a week,Often
+34,Prefer not to say,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+34,Female,home and kitchen,Once a week,Few times a week,Sometimes
+34,Female,clothing and fashion,Once a week,Few times a week,Often
+34,Female,beauty and personal care,Few times a month,Few times a week,Often
+34,Others,clothing and fashion,Few times a month,Few times a week,Often
+34,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+34,Male,clothing and fashion,Once a week,Few times a week,Rarely
+34,Female,clothing and fashion,Once a week,Few times a week,Sometimes
+34,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+34,Female,clothing and fashion,Once a week,Few times a week,Often
+34,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+34,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+34,Female,clothing and fashion,Once a week,Few times a week,Sometimes
+34,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+34,Male,clothing and fashion,Less than once a month,Few times a week,Often
+34,Female,groceries and gourmet food,Multiple times a week,Few times a week,Always
+34,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+35,Prefer not to say,groceries and gourmet food,Once a week,Few times a week,Sometimes
+35,Male,clothing and fashion,Once a month,Few times a week,Sometimes
+35,Prefer not to say,groceries and gourmet food,Once a month,Few times a week,Sometimes
+36,Female,home and kitchen,Once a month,Few times a week,Sometimes
+36,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+36,Female,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+36,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+36,Female,beauty and personal care,Few times a month,Few times a week,Often
+37,Female,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+37,Prefer not to say,groceries and gourmet food,Once a week,Few times a week,Often
+37,Female,groceries and gourmet food,Multiple times a week,Few times a week,Always
+37,Male,groceries and gourmet food,Once a month,Few times a week,Rarely
+37,Male,groceries and gourmet food,Less than once a month,Few times a week,Sometimes
+37,Male,clothing and fashion,Once a month,Few times a week,Often
+37,Female,beauty and personal care,Once a week,Few times a week,Always
+38,Male,beauty and personal care,Once a month,Few times a week,Rarely
+38,Female,others,Once a month,Few times a week,Sometimes
+39,Male,groceries and gourmet food,Less than once a month,Few times a week,Sometimes
+39,Female,home and kitchen,Few times a month,Few times a week,Sometimes
+39,Male,home and kitchen,Once a month,Few times a week,Often
+40,Male,beauty and personal care,Few times a month,Few times a week,Often
+40,Female,beauty and personal care,Once a week,Few times a week,Often
+40,Male,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+40,Female,beauty and personal care,Less than once a month,Few times a week,Sometimes
+40,Male,home and kitchen,Less than once a month,Few times a week,Often
+40,Female,beauty and personal care,Few times a month,Few times a week,Always
+41,Male,beauty and personal care,Few times a month,Few times a week,Often
+41,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+42,Female,clothing and fashion,Once a week,Few times a week,Sometimes
+42,Female,clothing and fashion,Few times a month,Few times a week,Often
+43,Male,beauty and personal care,Once a week,Few times a week,Always
+43,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+43,Male,groceries and gourmet food,Few times a month,Few times a week,Often
+44,Female,clothing and fashion,Once a week,Few times a week,Rarely
+44,Male,beauty and personal care,Once a week,Few times a week,Sometimes
+45,Female,home and kitchen,Few times a month,Few times a week,Sometimes
+45,Female,beauty and personal care,Once a month,Few times a week,Sometimes
+45,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+45,Others,beauty and personal care,Less than once a month,Few times a week,Always
+45,Prefer not to say,clothing and fashion,Once a month,Few times a week,Sometimes
+45,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+45,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+45,Female,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+45,Female,beauty and personal care,Multiple times a week,Few times a week,Often
+45,Female,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+45,Male,beauty and personal care,Few times a month,Few times a week,Sometimes
+46,Female,home and kitchen,Few times a month,Few times a week,Always
+46,Female,groceries and gourmet food,Once a month,Few times a week,Sometimes
+46,Prefer not to say,clothing and fashion,Few times a month,Few times a week,Rarely
+46,Female,others,Once a week,Few times a week,Often
+46,Male,groceries and gourmet food,Few times a month,Few times a week,Often
+47,Male,clothing and fashion,Few times a month,Few times a week,Often
+48,Male,beauty and personal care,Few times a month,Few times a week,Often
+50,Prefer not to say,groceries and gourmet food,Few times a month,Few times a week,Sometimes
+50,Female,beauty and personal care,Few times a month,Few times a week,Sometimes
+50,Male,clothing and fashion,Less than once a month,Few times a week,Never
+50,Female,beauty and personal care,Multiple times a week,Few times a week,Often
+52,Male,groceries and gourmet food,Multiple times a week,Few times a week,Always
+53,Female,home and kitchen,Less than once a month,Few times a week,Rarely
+53,Male,groceries and gourmet food,Less than once a month,Few times a week,Often
+54,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+54,Female,beauty and personal care,Few times a month,Few times a week,Rarely
+54,Male,groceries and gourmet food,Few times a month,Few times a week,Rarely
+56,Male,beauty and personal care,Few times a month,Few times a week,Sometimes
+56,Female,clothing and fashion,Few times a month,Few times a week,Sometimes
+56,Female,beauty and personal care,Multiple times a week,Few times a week,Sometimes
+56,Female,groceries and gourmet food,Multiple times a week,Few times a week,Rarely
+56,Female,beauty and personal care,Once a week,Few times a week,Sometimes
+57,Female,home and kitchen,Few times a month,Few times a week,Often
+57,Female,groceries and gourmet food,Few times a month,Few times a week,Always
+58,Male,clothing and fashion,Once a month,Few times a week,Sometimes
+67,Prefer not to say,home and kitchen,Few times a month,Few times a week,Sometimes
+16,Female,clothing and fashion,Less than once a month,Few times a month,Sometimes
+16,Male,clothing and fashion,Few times a month,Few times a month,Sometimes
+16,Female,clothing and fashion,Less than once a month,Few times a month,Often
+17,Prefer not to say,clothing and fashion,Once a month,Few times a month,Often
+18,Female,clothing and fashion,Once a month,Few times a month,Sometimes
+18,Female,groceries and gourmet food,Once a week,Few times a month,Sometimes
+19,Female,beauty and personal care,Few times a month,Few times a month,Often
+20,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+21,Female,groceries and gourmet food,Once a week,Few times a month,Sometimes
+21,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+21,Prefer not to say,clothing and fashion,Less than once a month,Few times a month,Sometimes
+21,Female,clothing and fashion,Less than once a month,Few times a month,Sometimes
+21,Others,groceries and gourmet food,Multiple times a week,Few times a month,Rarely
+21,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+21,Female,clothing and fashion,Once a month,Few times a month,Sometimes
+21,Female,home and kitchen,Few times a month,Few times a month,Rarely
+21,Prefer not to say,beauty and personal care,Once a month,Few times a month,Always
+21,Female,groceries and gourmet food,Once a week,Few times a month,Sometimes
+21,Female,beauty and personal care,Once a week,Few times a month,Often
+22,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+22,Female,clothing and fashion,Once a week,Few times a month,Sometimes
+22,Others,others,Less than once a month,Few times a month,Often
+22,Male,clothing and fashion,Once a month,Few times a month,Often
+22,Female,clothing and fashion,Less than once a month,Few times a month,Sometimes
+22,Female,beauty and personal care,Less than once a month,Few times a month,Rarely
+22,Others,beauty and personal care,Once a week,Few times a month,Often
+23,Male,others,Less than once a month,Few times a month,Rarely
+23,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+23,Female,clothing and fashion,Once a month,Few times a month,Rarely
+23,Prefer not to say,clothing and fashion,Once a week,Few times a month,Sometimes
+23,Female,clothing and fashion,Few times a month,Few times a month,Rarely
+23,Female,clothing and fashion,Multiple times a week,Few times a month,Sometimes
+23,Female,clothing and fashion,Few times a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Less than once a month,Few times a month,Rarely
+23,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+23,Prefer not to say,groceries and gourmet food,Once a month,Few times a month,Sometimes
+23,Male,clothing and fashion,Once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,groceries and gourmet food,Few times a month,Few times a month,Often
+23,Prefer not to say,clothing and fashion,Few times a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a month,Often
+23,Female,beauty and personal care,Once a month,Few times a month,Rarely
+23,Female,clothing and fashion,Once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,clothing and fashion,Less than once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a month,Often
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Male,clothing and fashion,Once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+23,Male,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,clothing and fashion,Once a month,Few times a month,Often
+23,Prefer not to say,clothing and fashion,Once a week,Few times a month,Sometimes
+23,Prefer not to say,beauty and personal care,Multiple times a week,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Once a week,Few times a month,Sometimes
+23,Female,clothing and fashion,Less than once a month,Few times a month,Rarely
+23,Female,clothing and fashion,Once a month,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Often
+23,Female,clothing and fashion,Once a week,Few times a month,Often
+23,Female,clothing and fashion,Once a week,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Rarely
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Prefer not to say,clothing and fashion,Once a week,Few times a month,Often
+23,Prefer not to say,beauty and personal care,Multiple times a week,Few times a month,Always
+23,Female,beauty and personal care,Multiple times a week,Few times a month,Often
+23,Female,home and kitchen,Less than once a month,Few times a month,Sometimes
+23,Prefer not to say,clothing and fashion,Once a month,Few times a month,Sometimes
+23,Prefer not to say,clothing and fashion,Once a week,Few times a month,Sometimes
+23,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+23,Female,clothing and fashion,Few times a month,Few times a month,Always
+23,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+23,Female,clothing and fashion,Less than once a month,Few times a month,Often
+23,Female,beauty and personal care,Once a week,Few times a month,Sometimes
+24,Male,others,Less than once a month,Few times a month,Sometimes
+24,Prefer not to say,clothing and fashion,Once a month,Few times a month,Often
+24,Female,clothing and fashion,Once a month,Few times a month,Often
+24,Male,clothing and fashion,Less than once a month,Few times a month,Sometimes
+24,Female,beauty and personal care,Less than once a month,Few times a month,Often
+24,Female,beauty and personal care,Once a month,Few times a month,Sometimes
+24,Male,others,Once a month,Few times a month,Often
+24,Female,clothing and fashion,Less than once a month,Few times a month,Sometimes
+24,Male,clothing and fashion,Few times a month,Few times a month,Always
+24,Male,others,Less than once a month,Few times a month,Sometimes
+24,Female,beauty and personal care,Less than once a month,Few times a month,Often
+24,Female,clothing and fashion,Less than once a month,Few times a month,Rarely
+24,Prefer not to say,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+24,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+24,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+25,Female,beauty and personal care,Once a month,Few times a month,Sometimes
+25,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+25,Prefer not to say,clothing and fashion,Few times a month,Few times a month,Sometimes
+25,Male,others,Less than once a month,Few times a month,Rarely
+25,Male,beauty and personal care,Once a week,Few times a month,Often
+25,Prefer not to say,clothing and fashion,Once a week,Few times a month,Sometimes
+25,Male,clothing and fashion,Few times a month,Few times a month,Often
+25,Female,beauty and personal care,Once a month,Few times a month,Sometimes
+25,Male,beauty and personal care,Few times a month,Few times a month,Sometimes
+26,Female,others,Less than once a month,Few times a month,Sometimes
+26,Prefer not to say,beauty and personal care,Once a month,Few times a month,Sometimes
+26,Female,others,Less than once a month,Few times a month,Sometimes
+26,Female,beauty and personal care,Once a week,Few times a month,Often
+27,Female,beauty and personal care,Once a week,Few times a month,Sometimes
+27,Male,clothing and fashion,Once a month,Few times a month,Often
+27,Male,clothing and fashion,Once a month,Few times a month,Sometimes
+27,Female,groceries and gourmet food,Once a month,Few times a month,Sometimes
+27,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+27,Male,beauty and personal care,Once a week,Few times a month,Sometimes
+27,Male,beauty and personal care,Once a month,Few times a month,Often
+27,Male,beauty and personal care,Once a month,Few times a month,Often
+27,Male,beauty and personal care,Multiple times a week,Few times a month,Always
+27,Male,others,Once a month,Few times a month,Often
+27,Male,others,Once a month,Few times a month,Sometimes
+27,Others,beauty and personal care,Few times a month,Few times a month,Often
+28,Others,groceries and gourmet food,Few times a month,Few times a month,Never
+28,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+28,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+29,Female,clothing and fashion,Less than once a month,Few times a month,Sometimes
+30,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+30,Male,groceries and gourmet food,Few times a month,Few times a month,Always
+30,Female,home and kitchen,Once a month,Few times a month,Sometimes
+31,Male,home and kitchen,Once a month,Few times a month,Sometimes
+31,Prefer not to say,clothing and fashion,Once a month,Few times a month,Sometimes
+32,Female,others,Once a month,Few times a month,Rarely
+32,Female,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+33,Others,clothing and fashion,Few times a month,Few times a month,Sometimes
+33,Prefer not to say,beauty and personal care,Once a week,Few times a month,Rarely
+33,Female,groceries and gourmet food,Multiple times a week,Few times a month,Always
+34,Female,others,Few times a month,Few times a month,Sometimes
+34,Prefer not to say,clothing and fashion,Once a week,Few times a month,Sometimes
+34,Prefer not to say,home and kitchen,Once a month,Few times a month,Sometimes
+34,Female,clothing and fashion,Once a week,Few times a month,Sometimes
+34,Prefer not to say,clothing and fashion,Few times a month,Few times a month,Rarely
+34,Prefer not to say,beauty and personal care,Once a week,Few times a month,Sometimes
+34,Male,clothing and fashion,Once a week,Few times a month,Often
+34,Female,beauty and personal care,Once a week,Few times a month,Often
+34,Female,clothing and fashion,Few times a month,Few times a month,Rarely
+34,Prefer not to say,clothing and fashion,Few times a month,Few times a month,Often
+34,Female,home and kitchen,Few times a month,Few times a month,Always
+34,Female,groceries and gourmet food,Few times a month,Few times a month,Rarely
+34,Prefer not to say,clothing and fashion,Once a month,Few times a month,Sometimes
+34,Male,beauty and personal care,Once a week,Few times a month,Sometimes
+34,Male,groceries and gourmet food,Less than once a month,Few times a month,Sometimes
+34,Female,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+34,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+35,Female,beauty and personal care,Few times a month,Few times a month,Often
+35,Female,beauty and personal care,Few times a month,Few times a month,Rarely
+35,Female,beauty and personal care,Once a week,Few times a month,Rarely
+35,Female,groceries and gourmet food,Few times a month,Few times a month,Often
+35,Female,clothing and fashion,Multiple times a week,Few times a month,Sometimes
+35,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+35,Female,clothing and fashion,Few times a month,Few times a month,Rarely
+35,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+36,Female,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+36,Female,groceries and gourmet food,Once a month,Few times a month,Sometimes
+36,Male,beauty and personal care,Few times a month,Few times a month,Sometimes
+36,Female,groceries and gourmet food,Few times a month,Few times a month,Often
+36,Female,groceries and gourmet food,Once a week,Few times a month,Often
+37,Female,groceries and gourmet food,Few times a month,Few times a month,Often
+37,Female,clothing and fashion,Once a month,Few times a month,Sometimes
+37,Male,beauty and personal care,Once a week,Few times a month,Sometimes
+38,Female,beauty and personal care,Once a month,Few times a month,Often
+38,Female,beauty and personal care,Less than once a month,Few times a month,Sometimes
+39,Male,clothing and fashion,Less than once a month,Few times a month,Often
+40,Prefer not to say,groceries and gourmet food,Few times a month,Few times a month,Often
+40,Male,groceries and gourmet food,Few times a month,Few times a month,Often
+40,Female,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+41,Male,clothing and fashion,Less than once a month,Few times a month,Always
+42,Male,groceries and gourmet food,Less than once a month,Few times a month,Often
+42,Female,groceries and gourmet food,Once a month,Few times a month,Always
+44,Male,clothing and fashion,Few times a month,Few times a month,Rarely
+44,Female,clothing and fashion,Once a week,Few times a month,Sometimes
+45,Female,beauty and personal care,Few times a month,Few times a month,Sometimes
+45,Female,beauty and personal care,Once a week,Few times a month,Rarely
+45,Female,beauty and personal care,Few times a month,Few times a month,Rarely
+45,Male,clothing and fashion,Less than once a month,Few times a month,Sometimes
+45,Others,beauty and personal care,Few times a month,Few times a month,Often
+45,Male,clothing and fashion,Few times a month,Few times a month,Sometimes
+45,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+45,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+45,Prefer not to say,home and kitchen,Less than once a month,Few times a month,Never
+45,Female,beauty and personal care,Multiple times a week,Few times a month,Never
+45,Prefer not to say,beauty and personal care,Once a week,Few times a month,Sometimes
+45,Female,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+46,Prefer not to say,beauty and personal care,Once a week,Few times a month,Rarely
+46,Male,clothing and fashion,Few times a month,Few times a month,Sometimes
+46,Female,clothing and fashion,Few times a month,Few times a month,Sometimes
+46,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+54,Male,groceries and gourmet food,Few times a month,Few times a month,Sometimes
+56,Prefer not to say,beauty and personal care,Few times a month,Few times a month,Sometimes
+56,Prefer not to say,clothing and fashion,Once a week,Few times a month,Sometimes
+60,Prefer not to say,home and kitchen,Less than once a month,Few times a month,Sometimes
+60,Male,beauty and personal care,Once a week,Few times a month,Rarely
+64,Male,groceries and gourmet food,Once a week,Few times a month,Often
+67,Female,beauty and personal care,Few times a month,Few times a month,Often
+15,Female,beauty and personal care,Multiple times a week,Multiple times a day,Often
+18,Female,beauty and personal care,Few times a month,Multiple times a day,Often
+18,Male,beauty and personal care,Once a week,Multiple times a day,Often
+19,Female,beauty and personal care,Few times a month,Multiple times a day,Often
+20,Female,beauty and personal care,Multiple times a week,Multiple times a day,Often
+20,Prefer not to say,beauty and personal care,Multiple times a week,Multiple times a day,Often
+20,Female,groceries and gourmet food,Multiple times a week,Multiple times a day,Always
+21,Prefer not to say,beauty and personal care,Once a month,Multiple times a day,Sometimes
+22,Female,groceries and gourmet food,Few times a month,Multiple times a day,Sometimes
+22,Female,beauty and personal care,Once a month,Multiple times a day,Sometimes
+22,Female,beauty and personal care,Few times a month,Multiple times a day,Often
+23,Female,beauty and personal care,Less than once a month,Multiple times a day,Sometimes
+23,Prefer not to say,beauty and personal care,Once a week,Multiple times a day,Often
+23,Female,beauty and personal care,Once a week,Multiple times a day,Always
+23,Female,beauty and personal care,Once a week,Multiple times a day,Often
+23,Female,clothing and fashion,Less than once a month,Multiple times a day,Often
+23,Female,groceries and gourmet food,Less than once a month,Multiple times a day,Often
+23,Prefer not to say,beauty and personal care,Once a week,Multiple times a day,Sometimes
+23,Female,beauty and personal care,Few times a month,Multiple times a day,Sometimes
+23,Female,clothing and fashion,Few times a month,Multiple times a day,Sometimes
+23,Female,clothing and fashion,Once a week,Multiple times a day,Often
+24,Female,groceries and gourmet food,Few times a month,Multiple times a day,Sometimes
+24,Female,beauty and personal care,Few times a month,Multiple times a day,Always
+24,Female,others,Less than once a month,Multiple times a day,Rarely
+25,Male,clothing and fashion,Few times a month,Multiple times a day,Often
+25,Female,beauty and personal care,Once a week,Multiple times a day,Sometimes
+25,Female,beauty and personal care,Multiple times a week,Multiple times a day,Always
+25,Female,groceries and gourmet food,Once a week,Multiple times a day,Sometimes
+26,Male,groceries and gourmet food,Once a month,Multiple times a day,Sometimes
+26,Others,clothing and fashion,Once a month,Multiple times a day,Often
+26,Female,beauty and personal care,Few times a month,Multiple times a day,Sometimes
+28,Female,beauty and personal care,Multiple times a week,Multiple times a day,Often
+28,Female,groceries and gourmet food,Few times a month,Multiple times a day,Often
+28,Female,groceries and gourmet food,Once a week,Multiple times a day,Rarely
+29,Female,groceries and gourmet food,Multiple times a week,Multiple times a day,Sometimes
+29,Male,beauty and personal care,Multiple times a week,Multiple times a day,Sometimes
+29,Female,groceries and gourmet food,Once a week,Multiple times a day,Often
+29,Female,beauty and personal care,Once a month,Multiple times a day,Often
+31,Prefer not to say,clothing and fashion,Once a week,Multiple times a day,Sometimes
+31,Male,beauty and personal care,Once a week,Multiple times a day,Always
+32,Male,groceries and gourmet food,Less than once a month,Multiple times a day,Often
+32,Female,groceries and gourmet food,Once a week,Multiple times a day,Often
+32,Others,groceries and gourmet food,Once a month,Multiple times a day,Sometimes
+33,Female,beauty and personal care,Multiple times a week,Multiple times a day,Often
+33,Female,clothing and fashion,Few times a month,Multiple times a day,Sometimes
+34,Prefer not to say,beauty and personal care,Multiple times a week,Multiple times a day,Always
+34,Female,groceries and gourmet food,Once a week,Multiple times a day,Always
+34,Female,beauty and personal care,Multiple times a week,Multiple times a day,Always
+34,Female,beauty and personal care,Multiple times a week,Multiple times a day,Sometimes
+34,Male,groceries and gourmet food,Less than once a month,Multiple times a day,Often
+35,Female,home and kitchen,Few times a month,Multiple times a day,Sometimes
+35,Female,beauty and personal care,Few times a month,Multiple times a day,Sometimes
+35,Prefer not to say,groceries and gourmet food,Once a month,Multiple times a day,Sometimes
+36,Female,groceries and gourmet food,Multiple times a week,Multiple times a day,Sometimes
+36,Female,home and kitchen,Once a month,Multiple times a day,Often
+37,Prefer not to say,beauty and personal care,Few times a month,Multiple times a day,Sometimes
+37,Prefer not to say,clothing and fashion,Once a week,Multiple times a day,Always
+40,Prefer not to say,clothing and fashion,Few times a month,Multiple times a day,Always
+41,Male,groceries and gourmet food,Multiple times a week,Multiple times a day,Often
+43,Male,beauty and personal care,Once a month,Multiple times a day,Always
+44,Female,beauty and personal care,Few times a month,Multiple times a day,Often
+45,Male,clothing and fashion,Once a month,Multiple times a day,Always
+45,Prefer not to say,groceries and gourmet food,Few times a month,Multiple times a day,Often
+45,Prefer not to say,clothing and fashion,Once a week,Multiple times a day,Sometimes
+45,Prefer not to say,clothing and fashion,Few times a month,Multiple times a day,Often
+45,Female,groceries and gourmet food,Few times a month,Multiple times a day,Often
+45,Female,groceries and gourmet food,Once a week,Multiple times a day,Often
+45,Female,clothing and fashion,Few times a month,Multiple times a day,Sometimes
+47,Female,groceries and gourmet food,Once a month,Multiple times a day,Sometimes
+47,Female,beauty and personal care,Few times a month,Multiple times a day,Sometimes
+47,Female,clothing and fashion,Once a month,Multiple times a day,Often
+49,Female,groceries and gourmet food,Few times a month,Multiple times a day,Sometimes
+50,Female,home and kitchen,Multiple times a week,Multiple times a day,Sometimes
+54,Others,groceries and gourmet food,Multiple times a week,Multiple times a day,Always
+55,Others,groceries and gourmet food,Few times a month,Multiple times a day,Sometimes
+56,Prefer not to say,beauty and personal care,Few times a month,Multiple times a day,Sometimes
+60,Female,beauty and personal care,Once a week,Multiple times a day,Sometimes
